@@ -1,0 +1,42 @@
+body{
+    background: #02eeff;
+    font-family: Georgia;
+}
+.conatiner{
+    background:white;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 400px;
+    width: 600px;
+    margin-top: 200px ;
+    margin-left: 400px;
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.title{
+    margin-left: 280px;
+    padding: 10px;
+}
+/* .QBox{
+
+} */
+.option{
+    background: #fcfaf9;
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+    margin-top: 15px;
+    margin-right: 95px;
+    margin-left: 50px;
+    padding: 5px;
+    border-radius: 10px;
+}
+.btn{
+    height: 50px;
+    width: 150px;
+    background: #2e00e7d7;
+    border-radius: 5px;
+    margin-left: 230px;
+    margin-top: 20px;
+
+}
